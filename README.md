@@ -16,3 +16,14 @@ Administrator functionality:
 * Sort trip data either by using username or by using date.
 * Sorted trip data can also be downloaded in csv format.
 * View images attached as receipts.
+
+Installation steps:
+
+Download the project folder in your system using below command or by downloading zip file.
+>git clone https://github.com/omkar-mulay/expense-tracker.git
+
+>Next import the Demo.sql file in phpmyadmin.
+
+>Next, edit the config.php file and put your credentials.
+
+
